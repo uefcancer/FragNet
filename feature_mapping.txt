@@ -1,0 +1,52 @@
+ 0: Proportion < 100bp  
+ 1: Proportion 100-150bp  
+ 2: Proportion 151-220bp  
+ 3: Proportion 221-320bp  
+ 4: Proportion > 320bp  
+ 5: Ratio (100-150bp) vs (151-220bp)  
+ 6: Ratio (<150bp) vs (>150bp)  
+ 7: Proportion 0-9bp  
+ 8: Proportion 10-19bp  
+ 9: Proportion 20-29bp  
+10: Proportion 30-39bp  
+11: Proportion 40-49bp  
+12: Proportion 50-59bp  
+13: Proportion 60-69bp  
+14: Proportion 70-79bp  
+15: Proportion 80-89bp  
+16: Proportion 90-99bp  
+17: Proportion 100-109bp  
+18: Proportion 110-119bp  
+19: Proportion 120-129bp  
+20: Proportion 130-139bp  
+21: Proportion 140-149bp  
+22: Proportion 150-159bp  
+23: Proportion 160-169bp  
+24: Proportion 170-179bp  
+25: Proportion 180-189bp  
+26: Proportion 190-199bp  
+27: Proportion 200-209bp  
+28: Proportion 210-219bp  
+29: Proportion 220-229bp  
+30: Proportion 230-239bp  
+31: Proportion 240-249bp  
+32: Proportion 250-259bp  
+33: Proportion 260-269bp  
+34: Proportion 270-279bp  
+35: Proportion 280-289bp  
+36: Proportion 290-299bp  
+37: Proportion 300-309bp  
+38: Proportion 310-319bp  
+39: Proportion 320-329bp  
+40: Proportion 330-339bp  
+41: Proportion 340-349bp  
+42: Proportion 350-359bp  
+43: Proportion 360-369bp  
+44: Proportion 370-379bp  
+45: Proportion 380-389bp  
+46: Proportion 390-399bp  
+47: Proportion 400-409bp  
+48: Fragment Size Mean  
+49: Fragment Size Variance  
+50: Fragment Size Skewness  
+51: Fragment Size Kurtosis  
