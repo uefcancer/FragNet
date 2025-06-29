@@ -7,4 +7,5 @@ Analysis of cell-free DNA (cfDNA) fragment size patterns, known as fragmentomics
 
 # How to run demo code which reads feature files and perform cancer detection:
 
-Upload both classifier_demo_code.ipynb file and review_data_sample.csv to the Google Colab environment for the code to run.
+1. Upload both classifier_demo_code.ipynb file and review_data_sample.csv to the Google Colab environment for the code to run.
+2. Directly open the Google Colab link: https://colab.research.google.com/drive/1HPnQRI_FMO2QRvGoE2EKZd-xwVtimcb6
