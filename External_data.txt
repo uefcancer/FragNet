@@ -1,0 +1,19 @@
+filename	annotation
+SRR5875045_breast_cfDNA_nucleosomes.bed.gz	breast cancer
+ERR850376_Breast_Cancer_Liver_Metastasis_Exome_nucleosomes.bed.gz	breast cancer
+ERR852106_Breast_Cancer_cfDNA_Exome_nucleosomes.bed.gz	breast cancer
+SRR3819940_lung_cancer_cfDNA_nucleosomes.bed.gz	lung cancer
+SRR5875014_GBM_cfDNA_nucleosomes.bed.gz	glioblastoma
+ERR852104_Primary_Breast_Cancer_Exome_nucleosomes.bed.gz	breast cancer
+SRR3819938_gastric_cancer_cfDNA_nucleosomes.bed.gz	gastric cancer
+SRR5875044_breast_cfDNA_nucleosomes.bed.gz	breast cancer
+SRR5875015_GBM_cfDNA_nucleosomes.bed.gz	glioblastoma
+SRR5875026_GBM_cfDNA_nucleosomes.bed.gz	glioblastoma
+SRR3819937_lung_cancer_cfDNA_nucleosomes.bed.gz	lung cancer
+SRR3819939_lung_cancer_cfDNA_nucleosomes.bed.gz	lung cancer
+ERR850376_Breast_Cancer_Buffy_Coat_Exome_nucleosomes.bed.gz	breast cancer
+SRR11742850_nucleosomes.bed	lung cancer
+SRR3819940_Lung_cancer_cfDNA_nucleosomes.bed.gz	lung cancer
+SRR3819936_gastric_cancer_cfDNA_nucleosomes.bed.gz	gastric cancer
+SRR5875027_GBM_cfDNA_nucleosomes.bed.gz	glioblastoma
+SRR11742855_nucleosomes.bed	liver cancer

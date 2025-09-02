@@ -1,0 +1,2222 @@
+filename	annotation	study_name
+EE87551.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86824.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86616.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87946.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87532.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86936.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87895.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86821.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87024.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88142.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88066.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88085.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86464.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86270.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE85805.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87519.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87306.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86536.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87658.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88216.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88198.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88253.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86862.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87803.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86955.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86939.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87572.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86790.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87728.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87253.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87432.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87340.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87309.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86226.hg38.frag.tsv.bgz	ovarian cancer	Snyder et al., 2016
+EE86715.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88141.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87539.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86841.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87064.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86719.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87574.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88178.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88128.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87429.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87766.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88208.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86823.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88258.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87748.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87716.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87166.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87914.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86492.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86762.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86234.hg38.frag.tsv.bgz	colorectal cancer	Snyder et al., 2016
+EE86335.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87130.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86732.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88035.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87830.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86885.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88023.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88189.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88024.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87333.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87878.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86611.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86602.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88039.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86248.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE86389.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87877.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87950.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87150.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88299.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87262.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87067.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86782.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87681.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88077.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87598.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87339.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86908.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86622.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87184.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88287.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87475.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87080.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86339.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87810.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86847.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87696.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86271.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE85861.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87100.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87691.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87075.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87977.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88269.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE85891.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE85761.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87669.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86545.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87905.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE85987.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86668.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86925.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85892.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87954.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86575.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88030.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86372.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88048.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85905.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86362.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88086.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86777.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86848.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86388.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86562.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86518.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88040.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88163.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87781.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87268.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87388.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87679.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87487.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88295.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87256.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88219.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87230.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86580.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86431.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87445.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88249.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87395.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86268.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE87824.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86264.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE87782.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87758.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86308.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88293.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86538.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88234.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87591.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86255.hg38.frag.tsv.bgz	colorectal cancer	Snyder et al., 2016
+EE87172.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88082.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87002.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87450.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87479.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86799.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87569.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86244.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE87122.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86373.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86423.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87144.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86834.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87769.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87918.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE88183.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE85916.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88043.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85784.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86607.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88084.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85928.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86740.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87724.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86534.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87546.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87088.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87470.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86772.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87437.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87541.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88125.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88271.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86699.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88152.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86861.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88026.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87764.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87672.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86970.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88061.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86759.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88159.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87315.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85935.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87162.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86994.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86405.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85845.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86893.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87839.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87154.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87400.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88172.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85927.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88126.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86984.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85937.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87434.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88117.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87071.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88054.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87961.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88190.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88296.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86520.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88036.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87364.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86780.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88227.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87378.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87087.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87605.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87643.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87449.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86654.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86404.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87887.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87735.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88119.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88240.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88103.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86597.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88078.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87894.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86306.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87911.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE87288.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87356.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87326.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87363.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87471.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86744.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87852.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86409.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87049.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87906.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86299.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87472.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87746.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86851.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87196.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87668.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86741.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87003.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86769.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88191.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88060.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85936.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87152.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88210.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87317.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86724.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87703.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87835.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86977.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86694.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86432.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86491.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85765.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86687.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85770.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88132.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87543.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86257.hg38.frag.tsv.bgz	breast cancer	Snyder et al., 2016
+EE88291.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88069.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86302.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86809.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87645.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88239.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87497.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85947.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87521.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88309.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86793.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87435.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88150.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87990.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87177.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87767.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85846.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88108.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87241.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86663.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86494.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86482.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86938.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88138.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87043.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88158.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86550.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88038.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87997.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86907.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86564.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86278.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87287.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88288.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87868.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86609.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86617.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88160.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86989.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87938.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86714.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87325.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87124.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87970.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87062.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88317.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88236.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87414.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87506.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86228.hg38.frag.tsv.bgz	breast cancer	Snyder et al., 2016
+EE87698.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86527.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87629.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87492.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88029.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87935.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88076.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88270.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE88019.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87456.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86623.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85769.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87048.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87825.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE85794.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88072.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87193.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87828.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86973.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87624.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88079.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88005.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86959.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88052.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86840.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86916.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86359.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87158.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87133.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88263.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE85982.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86956.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88230.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86827.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85799.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86483.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85737.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86659.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86539.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87145.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87463.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86543.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87127.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88146.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87234.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87012.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86961.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86574.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88250.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86566.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86398.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88106.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87327.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87872.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87755.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88224.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87631.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86269.hg38.frag.tsv.bgz	breast cancer	Snyder et al., 2016
+EE87422.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86950.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86704.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87516.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87976.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86503.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86660.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87015.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87702.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87666.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87820.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87736.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87996.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87968.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86251.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE86631.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86331.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87678.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88221.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88298.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87206.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88320.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87644.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87060.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86316.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86727.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87588.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87502.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87278.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86465.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87790.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87169.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87713.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86778.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87341.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87038.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85856.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86721.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88080.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88017.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87320.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88003.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87323.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85908.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88308.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86569.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87740.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87044.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87646.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87563.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86995.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88286.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87789.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE88162.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86470.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88267.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87143.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86341.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87109.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88248.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88304.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86351.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86677.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88032.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86849.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86441.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87246.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88123.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88229.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88197.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86307.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87560.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86356.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87667.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87897.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE87168.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87104.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86980.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86836.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86508.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86992.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87135.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86921.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87160.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87548.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86800.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87157.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87416.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86407.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87610.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88244.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87004.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87260.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86931.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87980.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85991.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86369.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86500.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87222.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87106.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87924.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87607.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87761.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87216.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87815.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86829.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86531.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86760.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87846.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87485.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87282.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87412.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88196.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86297.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87220.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86424.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86621.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86496.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86298.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87720.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87266.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86649.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86880.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87700.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86237.hg38.frag.tsv.bgz	head and neck cancer	Snyder et al., 2016
+EE87579.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86781.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87115.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86837.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86330.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86233.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE87017.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88104.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88319.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86843.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86561.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86363.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87419.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87376.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88180.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86941.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87756.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88266.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86454.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88192.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87318.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86376.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86320.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87889.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE88324.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87768.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87770.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87796.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87082.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87020.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88300.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE85862.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87346.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86693.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87149.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85839.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86789.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85997.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86869.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87093.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86254.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE86253.hg38.frag.tsv.bgz	esophageal cancer	Snyder et al., 2016
+EE87993.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86495.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88202.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88059.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87717.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87739.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87459.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88046.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87738.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87772.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85787.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87692.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87843.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87210.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86873.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87933.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86657.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85756.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88169.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87091.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87751.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87331.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86865.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85827.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE85971.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87236.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87707.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87099.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86417.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85903.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87765.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86455.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86666.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85860.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87822.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86750.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88314.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88116.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87721.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86544.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86733.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87140.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86447.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87723.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88281.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86281.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86560.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86605.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87866.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87359.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88016.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87493.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87156.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86230.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE86396.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88011.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87441.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87055.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86679.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86742.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87928.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88322.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87277.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87374.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87406.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88114.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87620.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85969.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86480.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87730.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87489.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87581.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86319.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86691.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86425.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86856.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87525.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87583.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87893.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86489.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87901.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE85983.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87118.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86345.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86461.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86795.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86697.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87934.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86718.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87879.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE85772.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86798.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85911.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87198.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85813.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86406.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87404.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87431.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87000.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86761.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86943.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86681.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87660.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88290.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86318.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87705.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87084.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87283.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86634.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86525.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86929.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87573.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86466.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86815.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87396.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87103.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86227.hg38.frag.tsv.bgz	skin cancer	Snyder et al., 2016
+EE87458.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87544.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87759.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86937.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87446.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88305.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87663.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87264.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88065.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86713.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85757.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86507.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87259.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87832.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86239.hg38.frag.tsv.bgz	bladder cancer	Snyder et al., 2016
+EE87988.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87982.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88127.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87357.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88171.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86411.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86419.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87826.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87693.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87059.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86985.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86460.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87944.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87779.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87640.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86920.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87009.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87276.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87362.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86776.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85854.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87155.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87439.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87443.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87520.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88012.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87194.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87823.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87664.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86698.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87628.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87442.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87919.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE87951.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87561.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87690.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86529.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87621.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86676.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88177.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87656.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87329.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88235.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87165.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85798.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88151.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87353.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87436.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86326.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86485.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87898.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86633.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85849.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87370.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87921.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87831.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86259.hg38.frag.tsv.bgz	colorectal cancer	Snyder et al., 2016
+EE88301.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86490.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87300.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88233.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86946.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87344.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88100.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88109.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87161.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87617.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87468.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87181.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87505.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86913.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87111.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85752.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE85962.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87729.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87634.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87203.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86310.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86311.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87444.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87511.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86448.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86286.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86863.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87036.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86476.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85883.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86477.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87393.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87955.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87722.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85899.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86866.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88112.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87670.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86628.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85789.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87033.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87402.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86552.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87274.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86358.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88144.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87909.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86905.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87912.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE87809.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87029.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87076.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86583.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88194.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88093.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87365.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87290.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88105.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88242.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86803.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86517.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86971.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87454.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86391.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87480.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86871.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86551.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87394.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86336.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88044.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88205.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87771.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88256.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87923.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86521.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86911.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87387.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86627.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86261.hg38.frag.tsv.bgz	kidney cancer	Snyder et al., 2016
+EE87900.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE88098.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86427.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87844.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86354.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86361.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87568.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88018.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88312.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87179.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87715.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86554.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86546.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86374.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86412.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88121.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87649.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86582.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87186.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86647.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88255.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87097.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87235.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85953.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86814.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87706.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86669.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87105.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87638.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86283.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87962.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87335.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86672.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86568.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86287.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88124.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87010.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86655.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86601.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87627.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86608.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88020.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87498.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88186.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87971.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88294.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87614.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86902.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88306.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87899.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86303.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87733.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85842.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88107.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87827.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87871.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87066.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88000.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88055.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85880.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88113.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86262.hg38.frag.tsv.bgz	prostate cancer	Snyder et al., 2016
+EE87307.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87886.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87081.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86872.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86875.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87650.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86511.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87704.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88067.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85961.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87073.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86771.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86435.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86620.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87361.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87913.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86639.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88232.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87937.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88156.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88149.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87316.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86352.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85802.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86854.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87885.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86340.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87762.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87114.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87354.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87676.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86338.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86964.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87415.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88110.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87039.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87254.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86963.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87999.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87217.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86802.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88014.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88031.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86614.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86953.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87727.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86684.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86589.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86387.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88025.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88204.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86993.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86833.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86618.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86904.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87998.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86653.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88027.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87642.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86533.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87927.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87805.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86415.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87975.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86954.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86321.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87801.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86764.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88154.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85898.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86675.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87793.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE88282.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87068.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87964.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87725.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87688.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87142.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87023.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85741.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE87494.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87867.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE85831.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88218.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88009.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87478.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87304.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86558.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87072.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86430.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87372.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87178.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86324.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88081.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86839.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86613.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85893.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88238.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87510.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87332.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87829.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86291.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86392.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86626.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87966.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87120.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86755.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86766.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88053.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86420.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86384.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87286.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86510.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86895.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87200.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88175.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86894.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88008.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86467.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86966.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86309.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87408.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87352.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87537.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87209.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87299.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86917.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86811.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86738.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87567.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87189.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87957.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87920.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86708.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87903.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86897.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85878.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88260.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86473.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87890.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87237.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86475.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86292.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87731.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87874.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE85949.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87136.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87630.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87146.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86305.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87792.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86745.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87225.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87559.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87571.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86830.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87101.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87008.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88140.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87987.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86734.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88099.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88289.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE88145.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87528.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86881.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86999.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88237.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86775.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86443.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85864.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87952.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85793.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87947.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86282.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87584.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88268.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86979.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87397.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88247.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87648.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87978.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87312.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88022.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87474.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87042.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88042.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87139.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87399.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85832.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86556.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87626.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86779.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87134.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86378.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86603.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87819.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87606.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87050.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86479.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87542.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88007.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87949.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87752.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87031.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88276.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87382.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87741.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87025.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85870.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE85946.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87294.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86688.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87202.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86329.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86874.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87173.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87305.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86397.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87686.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86504.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86890.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88201.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86290.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87358.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87032.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86557.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87019.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87272.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86294.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87942.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87845.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86549.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87557.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86889.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85777.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86753.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86386.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86394.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88302.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87486.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87562.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86705.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86383.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87798.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86951.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88292.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87931.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86313.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88303.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87774.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87743.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87360.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86572.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87221.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86882.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87619.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85990.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87034.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86736.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87817.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87512.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88215.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86680.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86674.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87601.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87908.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86514.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86002.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86690.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86402.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86246.hg38.frag.tsv.bgz	liver cancer	Snyder et al., 2016
+EE88167.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87051.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87215.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85885.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86537.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86949.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85943.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86944.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87438.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87108.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86632.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86272.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE86436.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85759.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88058.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87448.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88102.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87673.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88047.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86749.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87319.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88254.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87523.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87616.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87965.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88091.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88015.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87250.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86414.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86486.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87110.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86832.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88275.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86717.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86258.hg38.frag.tsv.bgz	liver cancer	Snyder et al., 2016
+EE88199.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87553.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86229.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE87176.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86646.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87079.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86735.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86855.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88021.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87433.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87171.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86712.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87662.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87125.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86637.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86235.hg38.frag.tsv.bgz	breast cancer	Snyder et al., 2016
+EE88165.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87884.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87001.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87639.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86812.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87545.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87840.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE85734.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE87426.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87540.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86285.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87263.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86644.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86850.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87786.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87595.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85938.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86498.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86739.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87016.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87742.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88316.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88173.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87131.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87566.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87211.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86247.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE88274.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87524.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86958.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87904.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86932.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87490.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86981.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87873.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87760.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87636.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86581.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87440.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86650.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87201.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86526.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88056.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85918.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86501.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88051.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87499.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86548.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87477.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85965.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88074.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87252.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87842.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86852.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86347.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87549.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86974.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86459.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87657.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86630.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86859.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87175.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87405.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87014.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86478.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87373.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88004.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86462.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85795.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE85974.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87757.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86883.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86923.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87597.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86927.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88122.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87641.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87734.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87245.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86991.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87744.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87994.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86901.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85869.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86671.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87061.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86426.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87069.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87587.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87775.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87213.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87816.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86000.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86835.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87984.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87052.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87295.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87849.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86752.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86576.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86542.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87128.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87232.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88131.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87945.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87182.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87870.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86962.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87035.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87907.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86810.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88228.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86593.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86256.hg38.frag.tsv.bgz	breast cancer	Snyder et al., 2016
+EE87389.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87674.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86350.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86493.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86301.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87311.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87611.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87527.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86399.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87594.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87212.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87671.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85867.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87308.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86773.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86658.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87821.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE88259.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87979.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88182.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86506.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86919.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87508.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85731.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE88223.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87522.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87797.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE85774.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87391.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88246.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88136.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86368.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86641.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88147.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87297.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87655.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88118.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86642.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87683.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88130.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88157.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86945.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87191.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86505.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87776.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86528.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86703.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87208.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87807.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87077.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86509.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87547.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87229.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87324.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86598.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87711.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86751.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87853.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86333.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88241.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87219.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87963.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86996.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87321.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87708.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86796.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87070.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88155.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87163.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86831.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88318.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE86484.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86587.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87279.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87424.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86304.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86428.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86249.hg38.frag.tsv.bgz	prostate cancer	Snyder et al., 2016
+EE87578.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86906.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87469.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86785.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88001.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86594.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87876.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86606.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87518.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87223.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87147.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87625.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87214.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87481.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87375.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85753.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86241.hg38.frag.tsv.bgz	kidney cancer	Snyder et al., 2016
+EE86422.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87271.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86665.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87482.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87096.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85743.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE88045.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87589.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87119.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88273.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86903.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86456.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87281.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86686.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86682.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87421.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86296.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86540.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87533.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87121.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87455.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87170.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86596.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87773.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88176.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87409.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88231.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86381.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86942.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85973.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87380.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86353.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86746.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87882.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86579.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85733.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE87452.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86643.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87330.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86515.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86577.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87462.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87451.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86624.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87972.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86876.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87697.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88313.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88137.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86667.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87292.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87585.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86586.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87466.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87113.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87117.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87239.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87018.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88010.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87653.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87618.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87633.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87554.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86730.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86260.hg38.frag.tsv.bgz	bladder cancer	Snyder et al., 2016
+EE86559.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87345.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87784.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87926.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85851.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87296.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88087.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86808.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86293.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86457.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87654.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86747.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87891.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87428.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86289.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87615.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86591.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86791.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87973.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87623.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86965.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86578.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86700.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87570.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87280.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87967.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86314.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88153.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87390.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86610.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86710.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86867.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86758.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87910.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE85963.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87132.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87685.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87123.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86408.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87632.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88164.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87712.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86250.hg38.frag.tsv.bgz	uterine cancer	Snyder et al., 2016
+EE87586.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87328.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87410.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86960.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86648.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87504.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87981.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86816.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87095.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87314.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86451.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85847.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86599.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88161.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86845.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87515.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87604.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86337.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85823.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88057.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87195.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86877.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87381.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86819.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88006.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86786.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86765.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86512.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87398.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86519.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86857.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87258.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85821.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87507.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87580.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88120.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87609.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87058.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85807.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86987.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88222.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88193.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE85749.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE87932.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88037.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86726.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87053.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87187.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85941.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86756.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85750.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86879.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87687.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86252.hg38.frag.tsv.bgz	head and neck cancer	Snyder et al., 2016
+EE87427.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87983.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87813.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87496.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85726.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE87028.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86280.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87745.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87137.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86678.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88206.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87517.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87418.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86535.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86532.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86522.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88279.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87383.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87509.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87684.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86312.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87126.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86472.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87737.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87785.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87129.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86487.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88064.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87754.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87107.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87473.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88115.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86619.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86826.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87027.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86725.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88094.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87164.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86692.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85739.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE87763.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87959.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86499.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87637.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87301.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87355.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87854.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87303.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86370.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87011.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87057.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87848.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86266.hg38.frag.tsv.bgz	esophageal cancer	Snyder et al., 2016
+EE86729.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85732.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86884.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86328.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87529.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88200.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86232.hg38.frag.tsv.bgz	ovarian cancer	Snyder et al., 2016
+EE85881.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87602.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86661.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85723.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE85724.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86446.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88139.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86317.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86846.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86892.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87794.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87350.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87159.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87916.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE85857.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87013.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87407.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87338.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88207.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86243.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE87564.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87800.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87334.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87347.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86438.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87190.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87565.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86355.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86670.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86445.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86453.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87558.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87349.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86860.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87592.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86770.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87940.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87453.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86439.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85773.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87726.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87747.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85791.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86794.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86695.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86997.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87269.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86986.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87183.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85939.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86806.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88325.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86452.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85992.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88321.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88243.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86947.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85907.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87536.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86315.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86983.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86728.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86488.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86433.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86625.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86969.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87244.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86360.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86702.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86571.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88213.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87205.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88278.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87709.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87041.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86348.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87550.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87285.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85788.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88013.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86640.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86481.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86403.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86553.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86662.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86357.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87204.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86245.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE86743.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87837.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE88220.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88041.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86390.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87423.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86295.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87593.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85901.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87556.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88090.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87243.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88033.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86910.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87337.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86664.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87582.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87732.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87366.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88097.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87806.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87675.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85858.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87185.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88166.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88209.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86804.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87677.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85785.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87251.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87613.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86763.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88179.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86870.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87787.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE88283.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE88088.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86590.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87037.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87348.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86463.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85888.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86737.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88174.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86638.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86792.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87392.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87102.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87413.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87153.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87401.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86444.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88311.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87367.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87799.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86898.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87293.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86928.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87577.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87238.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88225.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE85978.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87224.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87313.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87995.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86450.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87992.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86767.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85727.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86990.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88310.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88272.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87888.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87989.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87612.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88188.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86343.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87710.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87056.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85730.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86820.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86709.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86342.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86685.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86267.hg38.frag.tsv.bgz	breast cancer	Snyder et al., 2016
+EE87881.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87289.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86716.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87788.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86706.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88034.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86442.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86468.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85816.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86656.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86416.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87513.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87811.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87652.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85863.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86365.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86474.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87310.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87883.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86948.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86344.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87425.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86265.hg38.frag.tsv.bgz	skin cancer	Snyder et al., 2016
+EE87575.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88265.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87420.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86434.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87956.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86817.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85781.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87985.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86364.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87464.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87007.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87689.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86914.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86818.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86899.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85835.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86429.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86888.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87791.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE86934.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87089.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86567.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87447.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86807.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87847.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86523.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87590.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87869.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86325.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87576.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86584.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87750.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86382.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87247.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87460.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88002.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86813.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87467.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87386.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88096.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87248.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87045.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85872.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86754.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87086.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88185.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86711.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86231.hg38.frag.tsv.bgz	uterine cancer	Snyder et al., 2016
+EE88203.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86976.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87351.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86864.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86878.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86783.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87461.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86585.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87255.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86967.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87552.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86723.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86988.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88297.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88264.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE88135.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87148.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87665.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86768.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88212.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE88307.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE88195.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87818.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE88089.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86891.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86924.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86276.hg38.frag.tsv.bgz	healthy	Snyder et al., 2016
+EE87902.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE87814.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87865.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87267.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88071.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85810.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE88129.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85843.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87322.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87777.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86909.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86371.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87092.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86915.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87242.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86886.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87074.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88217.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86513.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86975.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87780.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88315.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87054.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87917.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE87948.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86240.hg38.frag.tsv.bgz	liver cancer	Snyder et al., 2016
+EE87500.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87960.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87929.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87501.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86458.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86547.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86651.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88092.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87622.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87231.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87841.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87495.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87261.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86797.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88062.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88251.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86805.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87228.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86838.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87749.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87384.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87094.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87651.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87535.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87530.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87265.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86449.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87085.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87804.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87534.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87491.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86395.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86437.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86380.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86612.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88070.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87138.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86722.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87680.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86563.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88075.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE85985.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87226.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86497.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88095.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87379.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87385.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86600.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87227.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87701.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87417.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86635.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87273.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85964.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87342.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88133.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86300.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85775.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88214.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86896.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86645.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86968.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86853.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86327.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87047.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87682.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87465.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87078.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87371.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87336.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86524.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87503.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88148.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87718.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87936.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86922.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86273.hg38.frag.tsv.bgz	pancreatic cancer	Snyder et al., 2016
+EE85968.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE85988.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86595.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87116.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87430.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88226.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87699.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87240.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87343.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87174.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86418.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88252.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87167.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88187.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87040.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87647.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87836.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87802.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87151.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86349.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87022.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87302.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87608.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85830.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88261.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87291.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86332.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85925.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86410.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86541.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88285.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE85921.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE86565.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87030.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87180.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86279.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86367.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86998.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86288.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85980.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87063.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87270.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86683.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88257.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87635.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87596.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87098.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88073.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87046.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87851.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE85814.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87958.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86748.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86868.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86858.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87403.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87834.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87661.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87249.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87939.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88134.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88184.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87600.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87457.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86952.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86615.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88181.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87714.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86375.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87476.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86570.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87922.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86469.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86652.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87953.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87483.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88063.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87218.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87005.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86707.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85970.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE86788.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87991.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87411.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87531.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85786.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87207.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87369.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87719.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86828.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86940.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86400.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87112.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86236.hg38.frag.tsv.bgz	prostate cancer	Snyder et al., 2016
+EE87778.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86413.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87006.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86421.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86673.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87875.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE86784.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86774.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88049.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87925.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88168.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86731.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86366.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87021.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85904.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE88050.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88262.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE87915.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86604.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86825.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86842.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86933.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86516.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87298.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87188.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86401.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86757.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87488.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87941.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86284.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87233.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86385.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88170.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88245.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE87838.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE87090.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86787.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88101.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87599.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87974.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88280.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86377.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86636.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86957.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86887.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87026.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86629.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88143.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87880.hg38.frag.tsv.bgz	colorectal cancer	Cristiano et al., 2019
+EE87812.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86900.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86935.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86701.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86346.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87197.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86801.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86588.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87694.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88083.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87377.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86912.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86323.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86982.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE85959.hg38.frag.tsv.bgz	healthy	Jiang et al., 2015
+EE87141.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86972.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86822.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86238.hg38.frag.tsv.bgz	lung cancer	Snyder et al., 2016
+EE87192.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86471.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88211.hg38.frag.tsv.bgz	lung cancer	Cristiano et al., 2019
+EE86926.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87065.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87753.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86334.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86592.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86440.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87783.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88277.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE85900.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87514.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87896.hg38.frag.tsv.bgz	gastric cancer	Cristiano et al., 2019
+EE86844.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87555.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88028.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87603.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87526.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86720.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88068.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86978.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86555.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87083.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86918.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86322.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87943.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87284.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85746.hg38.frag.tsv.bgz	colorectal cancer	Sun et al., 2019
+EE86393.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87659.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE85790.hg38.frag.tsv.bgz	liver cancer	Jiang et al., 2015
+EE87368.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE87986.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE88284.hg38.frag.tsv.bgz	ovarian cancer	Cristiano et al., 2019
+EE86379.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE88111.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE86530.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE86689.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87484.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE88323.hg38.frag.tsv.bgz	pancreatic cancer	Cristiano et al., 2019
+EE87833.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86573.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87199.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87850.hg38.frag.tsv.bgz	breast cancer	Cristiano et al., 2019
+EE86930.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87969.hg38.frag.tsv.bgz	healthy	Cristiano et al., 2019
+EE87795.hg38.frag.tsv.bgz	bile duct cancer	Cristiano et al., 2019
+EE87695.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86502.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87538.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
+EE86696.hg38.frag.tsv.bgz	breast cancer	Adalsteinsson et al., 2017
+EE87257.hg38.frag.tsv.bgz	prostate cancer	Adalsteinsson et al., 2017
